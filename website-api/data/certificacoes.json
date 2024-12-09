@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "name": "CompTIA A+",
+      "provider": "CompTIA",
+      "nivel": "Básico",
+      "description": "Uma certificação fundamental para profissionais de TI.",
+      "requirements": "Nenhum",
+      "cost": "US$ 226 por exame",
+      "exam_info": "90 questões, 90 minutos, múltipla escolha",
+      "logo": "https://www.zoombyte.edu.af/wp-content/uploads/elementor/thumbs/comtia-qe458hvsvj2obwc07ki6guvwh14v5a9ra21detli1s.png",
+      "area": "Suporte de TI"
+    },
+    {
+      "id": 2,
+      "name": "Cisco Certified Network Associate (CCNA)",
+      "provider": "Cisco",
+      "nivel": "Básico",
+      "description": "Uma certificação de nível associativo para profissionais de rede.",
+      "requirements": "Entendimento básico de conceitos de redes",
+      "cost": "US$ 300",
+      "exam_info": "120 minutos, múltipla escolha e simulações",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cisco_logo-1000px.png",
+      "area": "Redes"
+    },
+    {
+      "id": 3,
+      "name": "AWS Certified Solutions Architect - Associate",
+      "provider": "Amazon Web Services",
+      "nivel": "Básico",
+      "description": "Certificação para arquitetos de soluções em nuvem que utilizam AWS.",
+      "requirements": "Experiência prática com AWS",
+      "cost": "US$ 150",
+      "exam_info": "130 minutos, múltipla escolha",
+      "logo": "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+      "area": "Nuvem"
+    },
+    {
+      "id": 4,
+      "name": "Information Systems Security Professional (CISSP)",
+      "provider": "ISC²",
+      "nivel": "Básico",
+      "description": "Comprova que você tem o conhecimento, as habilidades e as competências básicas para uma função de nível básico ou júnior em segurança cibernética. O profissional terá contato com príncipios de segurança, recuperação de desastres, resposta a incidentes, conceitos de controle de acesso, segurança da rede e operações de segurança",
+      "requirements": "5 anos de experiência em segurança da informação",
+      "cost": "US699$(R$3.864,56)",
+      "exam_info": "3 horas, múltipla escolha, os exames variam de 100 a 150 questões",
+      "logo": "https://seeklogo.com/images/1/_ISC_2-logo-DA7AB4833F-seeklogo.com.png",
+      "area": "Segurança da Informação"
+    },
+    {
+      "id": 5,
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "provider": "Microsoft",
+      "nivel": "Básico",
+      "description": "Certificação básica para profissionais que desejam aprender sobre Azure.",
+      "requirements": "Nenhum",
+      "cost": "US$ 99",
+      "exam_info": "60 minutos, múltipla escolha",
+      "logo": "https://static.vecteezy.com/system/resources/previews/027/127/592/non_2x/microsoft-logo-microsoft-icon-transparent-free-png.png",
+      "area": "Nuvem"
+    },
+    {
+      "id": 6,
+      "name": "Google Cloud Professional Data Engineer",
+      "provider": "Google Cloud",
+      "nivel": "Básico",
+      "description": "Certificação para engenheiros de dados na plataforma Google Cloud.",
+      "requirements": "Experiência prática com Google Cloud Platform",
+      "cost": "US$ 200",
+      "exam_info": "2 horas, múltipla escolha e simulações",
+      "logo": "https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-1.png",
+      "area": "Dados e Nuvem"
+    },
+    {
+      "id": 7,
+      "name": "Certified ScrumMaster (CSM)",
+      "provider": "Scrum Alliance",
+      "nivel": "Básico",
+      "description": "Certificação para profissionais de Scrum e gerenciamento ágil.",
+      "requirements": "Participação em curso de Scrum",
+      "cost": "US$ 1.000 - $2.000",
+      "exam_info": "60 minutos, múltipla escolha",
+      "logo": "https://www.thescrummaster.co.uk/wp-content/uploads/2023/01/ScrumAllianceLogo-545.png",
+      "area": "Gerenciamento Ágil"
+    },
+    {
+      "id": 8,
+      "name": "ITIL Foundation",
+      "provider": "AXELOS",
+      "nivel": "Básico",
+      "description": "Valida as habilidades do profissional em planejamento, entrega e suporte, dentro de um departamento de TI. O profissional será apresentado às boas práticas de gerenciamento, assim com as terminologias ITIL. Também serão apresentados conceitos chave de Lean, Agile e DevOps, junto com a importância dessas metodologias para entregar valor",
+      "requirements": "Não apresenta requisitos, por ser nível básico",
+      "cost": "US$342.00 (R$1881,00)",
+      "exam_info": "40 questões de múltipla escolha, duração de 60 minutos, necessita de 26 acertos para aprovação.",
+      "logo": "https://blog.geekhunter.com.br/wp-content/uploads/2019/04/logo-itil-1.png",
+      "area": "Gerenciamento de Serviços de TI"
+    },
+    {
+      "id": 9,
+      "name": "ITIL Managing Professional (ITIL MP)",
+      "provider": "AXELOS",
+      "nivel": "Intermediário",
+      "description": "Valida as habilidades do profissional em planejamento, entrega e suporte, dentro de um departamento de TI. Os candidatos verão tecnologias e formação de times focados em negócios. Aqui serão apresentados conhecimentos práticos e técnicas de gestão de TI.",
+      "requirements": "Necessário obter a certificação ITIL Foundation",
+      "cost": "US$467.00 (R$2.568,50)",
+      "exam_info": "40 questões de múltipla escolha, duração de 113 minutos, necessita de 26 acertos para aprovação.",
+      "logo": "https://blog.geekhunter.com.br/wp-content/uploads/2019/04/logo-itil-1.png",
+      "area": "Gerenciamento Estratégico"
+    },
+    {
+        "id": 10,
+        "name": "ITIL Strategic Leader (ITIL SL)",
+        "provider": "AXELOS",
+        "nivel": "Intermediário",
+        "description": "Valida as habilidades do profissional em planejamento, entrega e suporte, dentro de um departamento de TI. Essa certificação, com seus dois módulos, atinge o nível de estratégia corporativa, permitindo que os profissionais certificados influenciem e conduzam decisões estratégicas.",
+        "requirements": "É necessário concluir os quatro módulos obrigatórios da certificação de Managing Professional",
+        "cost": "US$467.00 (R$2.568,50) - modulo ITIL® 4 Strategist: Direct, Plan and Improve; US$595.00 (R$3.272,50) - modulo ITIL® 4 Leader: Digital and IT Strategy",
+        "exam_info": "40 questões de múltipla escolha, duração de 113 minutos, necessita de 26 acertos para aprovação.",
+        "logo": "https://blog.geekhunter.com.br/wp-content/uploads/2019/04/logo-itil-1.png",
+        "area": "Estratégia Corporativa"
+    },
+    {
+        "id": 11,
+        "name": "ITIL Master",
+        "provider": "AXELOS",
+        "nivel": "Avançado",
+        "description": "A certificação ITIL Master é focada no setor executivo, isso porque a abordagem é focada em um público sênior e exige uma experiência maior do que 5 anos. Esta certificação validará a capacidade do profissional de aplicar os princípios, métodos e técnicas da ITIL no mundo real dos negócios.",
+        "requirements": "É necessário obter as outras certificações ITIL",
+        "cost": "Preço não encontrado.",
+        "exam_info": "Para obter essa certificação, é necessário entrar em contato com o suporte e preencher um formulário. Após o envio do formulário de inscrição, as etapas de aprovação são: Envio de “proposta”, ou seja, uma ideia para melhoria de negócios; Envio de “Pacote de Trabalho”, ou seja, informações e evidências sobre a eficácia e os benefícios da ideia; Entrevista com painel de avaliação.",
+        "logo": "https://blog.geekhunter.com.br/wp-content/uploads/2019/04/logo-itil-1.png",
+        "area": "Estratégia Corporativa e Liderança"
+    },
+    {
+        "id": 12,
+        "name": "ITIL Master",
+        "provider": "AXELOS",
+        "nivel": "Avançado",
+        "description": "A certificação ITIL Master é focada no setor executivo, isso porque a abordagem é focada em um público sênior e exige uma experiência maior do que 5 anos. Esta certificação validará a capacidade do profissional de aplicar os princípios, métodos e técnicas da ITIL no mundo real dos negócios.",
+        "requirements": "É necessário obter as outras certificações ITIL",
+        "cost": "Preço não encontrado.",
+        "exam_info": "Para obter essa certificação, é necessário entrar em contato com o suporte e preencher um formulário. Após o envio do formulário de inscrição, as etapas de aprovação são: Envio de “proposta”, ou seja, uma ideia para melhoria de negócios; Envio de “Pacote de Trabalho”, ou seja, informações e evidências sobre a eficácia e os benefícios da ideia; Entrevista com painel de avaliação.",
+        "logo": "https://blog.geekhunter.com.br/wp-content/uploads/2019/04/logo-itil-1.png",
+        "area": "Estratégia e Melhoria de Processos"
+    }
+  ]
+  
