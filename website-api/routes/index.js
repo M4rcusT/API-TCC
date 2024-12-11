@@ -2,12 +2,12 @@ const express = require('express');
 const router = express.Router();
 const certificacoes = require('../data/certificacoes.json');
 
-// Rota principal: Retorna todas as certificações
+// Rota principal
 router.get('/', (req, res) => {
   res.json(certificacoes);
 });
 
-// Rota para retornar detalhes de uma certificação por ID
+// Rota para retornar por ID
 router.get('/:id', (req, res) => {
   const id = parseInt(req.params.id);
   const certificacao = certificacoes.find(item => item.id === id);
